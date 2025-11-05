@@ -1,3 +1,6 @@
 ___pycache__/*
 amogh.devgun*
 output/*
+server/node_modules/*
+client/node_modules/*
+server/.env
